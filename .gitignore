@@ -1,0 +1,5 @@
+*.pyc
+.mypy_cache
+.vscode
+db.sqlite3
+settings.cpython-37.pyc
